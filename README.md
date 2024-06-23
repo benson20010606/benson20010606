@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benson20010606
-- Now I am a master student in Institute of Electrical and Contril Engineering in National Yang Ming Chiao Tung University (NYCU), Hsinchu, Taiwan.
+- Now I am a master student in Institute of Electrical and Control Engineering in National Yang Ming Chiao Tung University (NYCU), Hsinchu, Taiwan.
 - 👀 I’m interested in Edge AI、Embedded system、 Robotic 、Computer Vision.
 - 🌱 I’m currently learning Operating System、Pytorch、 Robotic.
 
